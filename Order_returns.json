@@ -1,0 +1,29 @@
+{"Orders":[{
+    "returnReference": "4829U3N35MKR9E",
+    "orderReference": "02KY5KL1Q21S",
+    "customerId": 201582644,
+    "items": [
+      {
+        "variantId": 613941,
+        "quantity": 1,
+        "returnReason": {
+          "code": 1,
+          "notes": "Too Large"
+        },
+        "carrierCodes": [ "20000K", "20005K", "40000K" ]
+      },{
+        "variantId": 713941,
+        "quantity": 5,
+        "returnReason": {
+          "code": 2,
+          "notes": "Doesn’t suit me"
+        },
+        "carrierCodes": [ "20000K", "20005K", "40000K" ]
+      }
+    ],
+    "timestamp": "2017–12–28T13:51:46.2671616Z"
+  }
+]
+}
+
+
